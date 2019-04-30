@@ -1,0 +1,13 @@
+{
+  "type": "module",
+  "name": "example-esm",
+  "version": "1.0.0",
+  "description": "ESM demo",
+  "main": "index.js",
+  "author": "Markoz Peña",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node --experimental-modules index.js"
+  }
+}
